@@ -6,6 +6,6 @@ This implementation of the Range Expansion Index concept includes all alert type
 
 ![REI indicator shows some very accurate trend reversal points on this CHF/JPY chart](https://github.com/EarnForex/Range-Expansion-Index/blob/main/README_Images/range-expansion-index-some-spot-on-trend-reversals.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Range-Expansion-Index/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Range-Expansion-Index/
 
 Any contributions to the code are welcome!
